@@ -15,6 +15,7 @@
 - [Installation Guide](#installation-guide)
 - [Environment Configuration](#environment-configuration)
 - [Project Structure](#project-structure)
+- [Hardware](#hardware)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [Troubleshooting](#troubleshooting)
@@ -292,7 +293,14 @@ Interactive Project/
 
 ---
 
-## 🚀 Usage
+## � Hardware
+
+### Wiring Diagram
+See: [/Hardwere/Hardwere.jpg](Hardwere/Hardwere.jpg)
+
+---
+
+## �🚀 Usage
 
 ### Running the Application
 
